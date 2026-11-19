@@ -1,0 +1,7 @@
+asset_id,name,category,building,location,manufacturer,install_year,expected_life_years,condition,replacement_cost,status
+HVAC-0001,Rooftop unit 1,HVAC,Building A,Roof,Acme HVAC,2012,20,Fair,48000,Active
+HVAC-0002,Chiller 1,HVAC,Building A,Mechanical room,Acme HVAC,2008,25,Good,185000,Active
+ELEC-0001,Main switchgear,Electrical,Building A,Electrical room,Northwind Electric,2001,40,Good,95000,Active
+PLMB-0001,Domestic hot water heater,Plumbing,Building B,Basement,Blue River Plumbing,2010,15,Poor,12000,Active
+FIRE-0001,Fire pump,Fire Safety,Building B,Pump room,Summit Fire,2015,25,Good,38000,Active
+ELEV-0001,Passenger elevator 1,Elevator,Building B,Lobby core,Apex Lifts,2005,30,Fair,210000,Active
