@@ -1,5 +1,7 @@
 # asset-register-template
 
+[![CI](https://github.com/yassine2med/asset-register-template/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/asset-register-template/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A facility asset register is only useful if every row follows the same rules: one unique ID per asset, a known category, a numeric install year and a real replacement cost. Spreadsheets drift from this over time. This repo ships a JSON Schema for a facility asset, sample registers, and a small command line validator that reports each bad row and field.
 
 ![Screenshot](docs/screenshot.png)
